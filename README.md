@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there 👋, I'm Vaibhav Mishra
 
-<!--
-**Vaibhav99mishra/Vaibhav99mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🔭 I’m currently working as an **AI/ML Engineer** and passionate about developing scalable AI-driven solutions.
+- 🌱 I’m currently learning more about **Autonomous Systems** and **Healthcare AI**.
+- 💼 With 6+ years of experience in **Machine Learning**, **Deep Learning**, and **NLP**, I’ve worked on several impactful projects, from **healthcare chatbots** to **text-to-motion** and **text-to-music generation**.
+- 📧 How to reach me: [vmishra1@mail.yu.edu](mailto:vmishra1@mail.yu.edu)
+- 💻 Pronouns: he/him
+- 🎉 Fun fact: I’m passionate about leveraging AI for **sustainable agriculture** and **healthcare**!
 
-Here are some ideas to get you started:
+## Get in Touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vaibhav-r-mishra/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## Fun Projects:
+- **Text to Motion**: Developed a deep learning model to generate lifelike human motions from text descriptions, enabling natural interactions in VR and gaming.
+- **Text to Music**: Fine-tuned a diffusion model to generate high-quality music from text prompts, pushing the boundaries of AI in creative arts.
+- **Healthcare Chatbot**: Created an AI-powered chatbot using IBM Watson to assist users with healthcare queries, providing remedies and physician referrals.
+- **Decoding Plant Stress**: Built a neural network model to analyze acoustic data and detect stress patterns in plants, contributing to sustainable agriculture practices.
+
+## Reach Out:
+Feel free to reach out via email or connect on LinkedIn if you want to collaborate or discuss AI, ML, or exciting new projects!
