@@ -3,7 +3,7 @@
 ## About Me:
 - 🔭 I’m currently working as an **AI/ML Engineer** and passionate about developing scalable AI-driven solutions.
 - 🌱 I’m currently learning more about **Autonomous Systems** and **Healthcare AI**.
-- 💼 With 4+ years of experience in**Software Engineering** **Machine Learning**, **Deep Learning**, and **NLP**, I’ve worked on several impactful projects, from **healthcare chatbots** to **text-to-motion** and **text-to-music generation**.
+- 💼 With 4+ years of experience in **Software Engineering** **Machine Learning**, **Deep Learning**, and **NLP**, I’ve worked on several impactful projects, from **healthcare chatbots** to **text-to-motion** and **text-to-music generation**.
 - 📧 How to reach me: [vmishra1@mail.yu.edu](mailto:vmishra1@mail.yu.edu)
 - 💻 Pronouns: he/him
 - 🎉 Fun fact: I’m passionate about leveraging AI for **sustainable agriculture** and **healthcare**!
